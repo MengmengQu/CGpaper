@@ -7,6 +7,11 @@ An optimal scheme for numerical evaluation of Eshelby tensors and its
 implementation in a MATLAB package for simulating the motion of viscous 
 ellipsoids in slow flows
 Mengmeng Qu, Dazhi Jiang, Lucy X. Lu
+Computers & Geosciences Volume 96, November 2016, Pages 98–108
+
+Publications and/or presentations using this, or derived, code to produce figures or 
+other content should cite this paper. 
+An acknowledgment for the use of this code is also appreciated.
 
 Please let us know about any bug or error:
        mqu5@uwo.ca
